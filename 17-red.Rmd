@@ -1,1 +1,5 @@
 # RED 
+![Persona 1](assets/red/Persona1.png) 
+![Persona 2](assets/red/persona2.png) 
+![Persona 3](assets/red/persona1.jpg) 
+![Persona 4](assets/red/3091646529715_.pic.jpg)
